@@ -11,6 +11,11 @@
 			"newSpeaker": "true"
 		},
 		{
+			"speaker": "sammy",
+			"dialog": "with peace and love, let him speak. he is but a donut lover",
+			"newSpeaker": "true"
+		},
+		{
 			"speaker" : "homer",
 			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
 			"newSpeaker":"true"
