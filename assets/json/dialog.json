@@ -6,8 +6,14 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker": "minerva",
+			"dialog": "screw you homer",
+			"newSpeaker": "true"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker":"true"
 		},
 		{	
 			"speaker" : "homer",

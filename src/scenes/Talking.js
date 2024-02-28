@@ -7,11 +7,13 @@ class Talking extends Phaser.Scene {
         // dialog constants
         this.DBOX_X = 0			        // dialog box x-position
         this.DBOX_Y = 400			    // dialog box y-position
-        this.DBOX_FONT = 'mickey_font'	    // dialog box font key
+        this.DBOX_FONT = 'gem_font'	    // dialog box font key
+        // this.DBOX_FONT = 'mickey_font'	    // dialog box font key
+
 
         this.TEXT_X = 50			    // text w/in dialog box x-position
         this.TEXT_Y = 445			    // text w/in dialog box y-position
-        this.TEXT_SIZE = 32		        // text font size (in pixels)
+        this.TEXT_SIZE = 24		        // text font size (in pixels)
         this.TEXT_MAX_WIDTH = 715	    // max width of text within box
 
         this.NEXT_TEXT = '[SPACE]'	    // text to display for next prompt
